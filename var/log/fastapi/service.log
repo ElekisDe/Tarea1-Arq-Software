@@ -1,0 +1,164 @@
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - root endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service2 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Handling request in service1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 1 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - /service2 endpoint
+INFO:main:Hola desde el servicio 2 - /service2 endpoint
+INFO:main:Hola desde el servicio 2 - /service2 endpoint
+INFO:main:Hola desde el servicio 2 - /service2 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 1 - /service1 endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint
+INFO:main:Hola desde el servicio 2 - root endpoint

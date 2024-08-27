@@ -1,0 +1,64 @@
+version: '3'
+
+services:
+  service1:
+    build: ./service1
+    volumes:
+      - ./var/log/fastapi:/var/log/fastapi
+    working_dir: /app
+    command: uvicorn main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    networks:
+      - backend
+
+  service2:
+    build: ./service2
+    volumes:
+      - ./var/log/fastapi:/var/log/fastapi
+    working_dir: /app
+    command: uvicorn main:app --host 0.0.0.0 --port 8001
+    ports:
+      - "8001:8001"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    networks:
+      - backend
+
+  promtail:
+    image: grafana/promtail:2.6.0
+    volumes:
+      - ./promtail.yaml:/etc/promtail/promtail.yaml
+      - ./var/log/fastapi:/var/log/fastapi
+    command: -config.file=/etc/promtail/promtail.yaml
+    networks:
+      - backend
+
+  loki:
+    image: grafana/loki:2.8.0
+    ports:
+      - "3100:3100"
+    networks:
+      - backend
+
+  grafana:
+    image: grafana/grafana:9.4.0
+    ports:
+      - "3000:3000"
+    depends_on:
+      - loki
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    networks:
+      - backend
+
+networks:
+  backend:
